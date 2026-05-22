@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **inogami-dev/inogami-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 🎨 Inogami
+`Aspiring Software Developer (Mobile)`
+I am an aspiring mobile developer who builds with both purpose and passion. Operating at the intersection of art and technology, my design philosophy is "simple yet elegant." Whether I am writing code or designing a user interface, I aim for the highest possible potential rather than just completion. I carry this standard into every project I take on, always striving to "Aim for a Hundred!"
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</p>
