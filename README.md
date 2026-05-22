@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # 🎨 Inogami
 `Aspiring Software Developer (Mobile)`
+
 I am an aspiring mobile developer who builds with both purpose and passion. Operating at the intersection of art and technology, my design philosophy is "simple yet elegant." Whether I am writing code or designing a user interface, I aim for the highest possible potential rather than just completion. I carry this standard into every project I take on, always striving to "Aim for a Hundred!"
 
 ### 🛠️ Languages and Tools
